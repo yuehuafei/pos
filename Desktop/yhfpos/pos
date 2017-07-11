@@ -1,11 +1,11 @@
-1.计算总金额
+1.计算总金额     3min
 输入：对象数组inputs[object{string,string,string,number,number},{},{},...]
 输出：总金额totalMoney  number 
 
-2.计算小计并进行字符串拼接
+2.计算小计并进行字符串拼接   15min
 输入：对象数组inputs ，总金额totalMoney
 输入：拼接后的字符串strs  string   “注意数字后的.00”
 
-3.打印字符串
+3.打印字符串     2min
 输入：strs  string
 输出：收据
